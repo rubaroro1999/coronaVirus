@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392422596921",
+    "firebase_url": "https://coronaviurs-ca084.firebaseio.com",
+    "project_id": "coronaviurs-ca084",
+    "storage_bucket": "coronaviurs-ca084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392422596921:android:bd4e4e79d228192df388e8",
+        "android_client_info": {
+          "package_name": "com.example.cloudcomputingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392422596921-9l0sahmlkdc0mslj49r500phif1hm46h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhBF1KWOH4ufQOo5haoR59Eqnp_oOqTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392422596921-9l0sahmlkdc0mslj49r500phif1hm46h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
